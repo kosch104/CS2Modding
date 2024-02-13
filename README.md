@@ -38,7 +38,7 @@ Enabled = true
 3. Open the `.sln` file with your IDE. You should now see the project structure of the mod. Wait for NuGet to restore the packages.
 
 
-4. Open `GlobalProperties.props.dist` and rename it to `GlobalProperties.props`. Change the `GamePath` to your Cities Skylines II game folder and choose the correct BepInEx version. This will copy the dll to your BepInEx plugins folder automatically (on build).
+4. Copy `GlobalProperties.props.dist` and rename the copy to `GlobalProperties.props`. Change the `GamePath` to your Cities Skylines II game folder and choose the correct BepInEx version. This will copy the dll to your BepInEx plugins folder automatically (on build).
 
 5. Start Cities Skylines II (not using Thunderstore/Modman) and check if the mod is loaded. You should see a console window with your mod name and version. 
 
