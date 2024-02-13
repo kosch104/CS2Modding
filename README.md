@@ -4,7 +4,7 @@
 ## Requisites
 
 - Visual Studio 2022 or other IDE
-- Knowledge of C# Programming Language and [ECS]() (Entity Component System)
+- Knowledge of C# Programming Language and [ECS](https://wiki.ciim.dev/guides/ecs.html) (Entity Component System)
 
 ## 1. Requirements
 
