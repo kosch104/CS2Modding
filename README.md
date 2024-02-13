@@ -10,7 +10,7 @@
 
 ### 1. Install BepInEx v5
 
-Download and Install [BepInEx 5](https://thunderstore.io/c/cities-skylines-ii/p/BepInEx/BepInExPack/) by extracting the contents of the Archive to your Cities Skylines II installation directory (C:/Program Files (x86/Steam/steamapps/common/Cities Skylines II). Make sure this directory now additionally includes the following files:
+Download and Install [BepInEx 5](https://thunderstore.io/c/cities-skylines-ii/p/BepInEx/BepInExPack/) by extracting the contents of the Archive to your Cities Skylines II installation directory (C:/Program Files (x86)/Steam/steamapps/common/Cities Skylines II). Make sure this directory now additionally includes the following files:
 
 - `BepInEx` (folder)
 - `doorstop_config.ini`
