@@ -29,7 +29,7 @@ Enabled = true
 
 
 ### 2. Set up Solution for your Mod
-1. Clone/Download [Example Mod](https:github.com/89pleasure/cities2-no-unique-buildings) (credit to 89pleasure for providing) to your computer
+1. Clone/Download the mod template https:github.com/89pleasure/cities2-no-unique-buildings (credit to 89pleasure for providing) to your computer
 
 
 2. Using your IDE or any other Search and Replace-Tool, replace all occurences of `NoUniqueBuildings` with your mod name. Make sure to also rename the `.sln` file, the `.csproj` file and the project folder to your new chosen name
