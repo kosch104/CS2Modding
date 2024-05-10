@@ -2,8 +2,8 @@
 
 This guide allows you to use breakpoints and debug insights from within your IDE solution.
 
-1. Find you Unity Editor install directory (`C:\Program Files\Unity 2022.3.7f1`, Version may change in the future) and navigate to the subdirectory `\Editor\Data\PlaybackEngines\windowsstandalonesupport\Variations\win64_player_development_mono`
-2. Copy the `Data` directory to your Cities Skylines II game directory and rename it to `Cities2_Data`, overwriting the original files
+1. Find you Unity Editor install directory (`C:\Program Files\Unity 2022.3.7f1`, Version may change in the future) and navigate to the subdirectory `\Editor\Data\PlaybackEngines\windowsstandalonesupport\Variations\win64_player_development_mono\`
+2. Copy the `Data` directory that is found in the folder to your Cities Skylines II game directory and rename it to `Cities2_Data`, overwriting the original files
 3. Copy `WindowsPlayer.exe` and rename it to `Cities2.exe`
 4. Copy `UnityPlayer.dll` to the game directory
 5. In your game directory, navigate to the freshly created `Cities2_Data` directory and edit `boot.config` using a text editor
